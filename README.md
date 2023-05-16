@@ -1,1 +1,2 @@
-# EduardoHenrique_GabrielPeixoto_KaisenLinux_os_rr_2023
+# Distribuição Kaisen Linux
+# EduardoIzidorio_GabrielPeixoto_KaisenLinux_os_rr_2023
