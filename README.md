@@ -17,4 +17,4 @@ $ neofetch
 
 ## Vídeo tutorial de instalação
 
-[Video]https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/issues/3#issue-1750553884
+[Video](https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/issues/3#issue-1750553884)
