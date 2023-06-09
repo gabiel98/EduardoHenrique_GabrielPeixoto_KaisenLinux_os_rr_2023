@@ -17,7 +17,7 @@ $ neofetch
 
 ## Vídeo tutorial de instalação
 
-<video width="320" height="240" controls>
+<video width="250" height="200" controls>
   <source src="[URL_DO_VÍDEO](https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/blob/main/M%C3%ADdias/Video%20tutorial%20kaisen%20linux.mp4)" type="video/mp4">
 
 </video>
