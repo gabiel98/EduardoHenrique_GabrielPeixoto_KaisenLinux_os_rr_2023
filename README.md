@@ -12,8 +12,7 @@ Comando usado no terminal para exibir informações sobre o sistema e hardware e
 
 $ neofetch
 
-
-Mídias/Comando Neofetch.png
+![neofetch](https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/blob/main/M%C3%ADdias/Comando%20Neofetch.png)
 
 
 ## Vídeo tutorial de instalação
