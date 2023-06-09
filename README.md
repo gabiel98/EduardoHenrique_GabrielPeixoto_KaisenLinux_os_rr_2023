@@ -18,5 +18,5 @@ $ neofetch
 ## Vídeo tutorial de instalação
 
 <video width="250" height="200" controls>
-  <source src="[URL_DO_VÍDEO](https://youtu.be/qOOOKVGUmEw)"> <type="video/mp4">
+  <source src="[URL_DO_VÍDEO](https://youtu.be/qOOOKVGUmEw)" type="video/mp4">
 </video>
