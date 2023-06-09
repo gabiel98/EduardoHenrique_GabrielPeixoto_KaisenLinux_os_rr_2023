@@ -6,3 +6,14 @@ Kaisen Linux é uma distribuição para profissionais de TI baseada na distribui
 ## Objetivo
 Descrever as soluções com o máximo de detalhes possível, no caso de programas,
 inclusive a forma como os testes foram feitos, sobre a distribuição Linux Kaisen.
+
+## Comando Neofetch
+Comando usado no terminal para exibir informações sobre o sistema e hardware em uma forma visualmente atraente. 
+
+$ neofetch
+https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/blob/main/M%C3%ADdias/Comando%20Neofetch.png
+
+
+## Vídeo tutorial de instalação
+
+https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/blob/main/M%C3%ADdias/Video%20tutorial%20kaisen%20linux.mp4
