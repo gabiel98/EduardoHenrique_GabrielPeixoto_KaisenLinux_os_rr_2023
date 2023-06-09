@@ -17,6 +17,7 @@ $ neofetch
 
 ## Vídeo tutorial de instalação
 
-<video width="250" height="200" controls>
+<video width="320" height="240" controls>
   <source src="[URL_DO_VÍDEO](https://youtu.be/qOOOKVGUmEw)" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeo.
 </video>
