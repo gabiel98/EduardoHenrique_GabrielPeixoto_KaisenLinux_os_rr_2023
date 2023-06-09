@@ -11,6 +11,8 @@ inclusive a forma como os testes foram feitos, sobre a distribuição Linux Kais
 Comando usado no terminal para exibir informações sobre o sistema e hardware em uma forma visualmente atraente. 
 
 $ neofetch
+
+
 Mídias/Comando Neofetch.png
 
 
