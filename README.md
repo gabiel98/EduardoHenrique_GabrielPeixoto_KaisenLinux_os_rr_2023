@@ -17,4 +17,3 @@ $ neofetch
 
 ## Vídeo tutorial de instalação
 
-<iframe width="560" height="315" src="(https://youtu.be/qOOOKVGUmEw)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
