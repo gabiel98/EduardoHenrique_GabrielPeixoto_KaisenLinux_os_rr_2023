@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/assets/99437216/07032e31-a6f8-447d-81cf-ae9db6fd5640">
+  <img src="(https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/assets/99437216/ba2bb0ce-1d72-444f-9fa6-3ccca7db2e89">
 </p>
 ![linux2 0](https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/assets/99437216/ba2bb0ce-1d72-444f-9fa6-3ccca7db2e89)
 
