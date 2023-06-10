@@ -1,4 +1,4 @@
-![linux]<h1 align="center", img= https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/assets/99437216/31f67be4-37e0-437d-88bc-d8d18c4f26e7</h1>
+![linux](https://github.com/gabiel98/EduardoHenrique_GabrielPeixoto_dist_os_rr_2023/assets/99437216/31f67be4-37e0-437d-88bc-d8d18c4f26e7)
 
 ### https://kaisenlinux.org/
 ## Sobre
